@@ -98,6 +98,3 @@ react-application/
 ├──package-lock.json
 └── README.md
 ```
-
-## Folder Structure
-
